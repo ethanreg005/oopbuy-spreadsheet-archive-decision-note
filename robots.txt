@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ethanreg005.github.io/oopbuy-spreadsheet-archive-decision-note/sitemap.xml
